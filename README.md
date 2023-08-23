@@ -16,5 +16,5 @@ L'Analyse Factorielle des Correspondances (AFC) est une méthode statistique pui
 Nous avons généré divers graphiques pour visualiser les résultats de l'analyse AFC, y compris des nuages de points, des graphiques de qualité de représentation des lignes et des colonnes, et des graphiques de contributions des lignes et des colonnes. Vous pouvez les trouver dans le dossier de Images du projet.
 ![graph_valeurs_propres](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/graph_valeurs_propres.PNG)
 ![Nuage_points_lignes_colonnes](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/Nuage_points_lignes_colonnes2.PNG)
-![Nuage_points_lignes_colonnes](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/Nuage_points_lignes_colonnes2.PNG)
-![Nuage_points_lignes_colonnes](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/Nuage_points_lignes_colonnes2.PNG)
+![graph_lignes](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/graph_lignes.PNG)
+![Histogramme](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/Histogramme.PNG)
