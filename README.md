@@ -18,3 +18,7 @@ Nous avons généré divers graphiques pour visualiser les résultats de l'analy
 ![Nuage_points_lignes_colonnes](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/Nuage_points_lignes_colonnes2.PNG)
 ![graph_lignes](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/graph_lignes.PNG)
 ![Histogramme](https://github.com/FatimaEzzahraElAyadi/AFC_Project/blob/master/Images/Histogramme.PNG)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-el-ayadi-977bb5196/)
