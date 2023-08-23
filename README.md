@@ -1,1 +1,1 @@
-# AFC_Project
+# 📊 Analyse Factorielle des Correspondances (AFC)
